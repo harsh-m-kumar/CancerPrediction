@@ -1,0 +1,8 @@
+2020-10-22/19:39:33		Entered into createTrainTextTable table
+2020-10-22/19:39:34		Table created successfully
+2020-10-22/19:39:34		Entered in createTrainGeneVarTable function
+2020-10-22/19:39:35		TrainGeneVarTable created successfully!!
+2020-10-22/19:39:35		Entered into createPredTextTable table
+2020-10-22/19:39:35		Table created successfully
+2020-10-22/19:39:35		Entered in createPredGeneVarTable function
+2020-10-22/19:39:36		PredGeneVarTable table created Successfully!!

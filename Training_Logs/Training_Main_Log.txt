@@ -1,0 +1,50 @@
+2020-10-22/19:39:20		start of training
+2020-10-22/19:39:20		Entering the Pre_Training Method for all the unzipping and database operations
+2020-10-22/19:39:20		Entered into Unzipping method
+2020-10-22/19:39:33		Exited fromm unzipping method
+2020-10-22/19:39:33		Finished unzipping all the files
+2020-10-22/19:39:33		Entering into Table creation for Train_Text_Table
+2020-10-22/19:39:34		Created Train_Text_Table successfully
+2020-10-22/19:39:34		Entering into createTrainGeneVarTable method for Table creation for TrainGeneVarTable
+2020-10-22/19:39:35		Created TrainGeneVarTable table Successfully!!
+2020-10-22/19:39:35		Entering into createPredTextTable method for Table creation of Pred_Text_Table
+2020-10-22/19:39:35		Created Test_Text_Table table successfully!!
+2020-10-22/19:39:35		Entering into createPredGeneVarTable method for table creation for PredGeneVarTable Table
+2020-10-22/19:39:36		Created PredGeneVarTable table Successfully!!
+2020-10-22/19:39:36		Entering into method insertDataIntoTextTable for inserting data in Train_Text_Table  and Pred_Text_Table
+2020-10-22/19:53:00		Data inserted into Train_Text_Table and Test_Text_Table Successfully!!
+2020-10-22/19:53:00		Entering into insertDataIntoGenVarTable method for inserting data into TrainGeneVarTable and PredGeneVarTable table
+2020-10-22/20:05:28		Data inserted into TrainGeneVarTable and PredGeneVarTable Successfully!!
+2020-10-22/20:05:28		All Pre_training task completed successfully
+2020-10-22/20:05:28		Entering into get_data method for retrieving data into dataFrame
+2020-10-22/20:05:28		Entered into get_data method for getting data into pandas dataframe
+2020-10-22/20:05:28		Converting the data of Train_Text_Table into Pandas dataframe
+2020-10-22/20:06:09		Train_Text_Table successfully converted to the pandas dataframe
+2020-10-22/20:06:09		Converting the data of Pred_Text_Table into Pandas dataframe
+2020-10-22/20:06:38		Pred_Text_Table successfully converted to the pandas dataframe
+2020-10-22/20:06:38		Converting the data of TrainGeneVarTable into Pandas dataframe
+2020-10-22/20:06:38		TrainGeneVarTable successfully converted to the pandas dataframe
+2020-10-22/20:06:38		Converting the data of PredGeneVarTable into Pandas dataframe
+2020-10-22/20:06:38		PredGeneVarTable successfully converted to the pandas dataframe
+2020-10-22/20:06:38		Got the data into Pandas Dataframe
+2020-10-22/20:06:38		Entering into    method for merging Text table and GeneVarTable
+2020-10-22/20:06:38		Merged Two pandas dataframe successfully
+2020-10-22/20:06:38		Entering into drop_null method
+2020-10-22/20:06:38		Dropped all the null values rows succesfully
+2020-10-22/20:06:38		Entering into text_preprocessing method
+2020-10-22/20:07:14		Preprocessing of the TEXT feature completed successfully
+2020-10-22/20:07:14		Entering into splitData method for splitting data into train,Cv,Test
+2020-10-22/20:07:14		Splitted data successfully!!
+2020-10-22/20:07:14		Entering into OneHot method for generating the one Hot encodded features and  saving the respective objects
+2020-10-22/20:07:14		OneHotGene.pkl file saved successfully!!
+2020-10-22/20:07:14		OneHotVariation.pkl file saved successfully!!
+2020-10-22/20:08:30		OneHotText.pkl file saved successfully
+2020-10-22/20:08:48		Generated One Hot Encoded Features for train,test and cv successfullyy!!
+2020-10-22/20:08:50		Entering into the TfIdf method for generating the Tf-idf encodded feature and saving the respective objectcs
+2020-10-22/20:09:17		TfidfGene.pkl file saved successfully!!
+2020-10-22/20:09:18		TfidfVariation.pkl file saved successfully
+2020-10-22/20:22:16		TfidfText.pkl file saved successfully
+2020-10-22/20:51:23		Entering into the FindBestModel method for finding the best model
+2020-10-22/22:49:59		Found the best Model and the original model for feature importance 
+2020-10-22/22:49:59		Entering the saving method for saving the model
+2020-10-22/22:50:01		Best Model and the model for feature importance saved successfully!!

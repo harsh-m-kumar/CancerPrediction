@@ -1,0 +1,7 @@
+2020-10-22/21:14:24		For Logistic Reg. with balanced class and OneHot features the best alpha value is:0.001, The Test loss is 1.0022994109858208
+2020-10-22/21:14:24		Logistic Reg. with balanced class and OneHot features trainied successfully!!
+2020-10-22/22:03:36		For Logistic Reg with balanced class and Tfidf features the best alpha value is:0.01, The Test loss is 1.0102934343776497
+2020-10-22/22:03:37		Logistic Reg with balanced class and Tfidf features trainined successfully
+2020-10-22/22:45:51		For Logistic Reg without balanced class and Tfidf features the best alpha value is:0.01, The Test loss is 1.0121974084574805
+2020-10-22/22:45:51		Logistic Reg without balanced class and Tfidf features trainined successfully
+2020-10-22/22:49:58		Best Model choosen is Logistic Reg. with balanced class and OneHot features with Log loss 1.0022994109858208

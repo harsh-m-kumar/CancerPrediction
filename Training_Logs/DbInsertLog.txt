@@ -1,0 +1,8 @@
+2020-10-22/19:39:36		Entered into insertDataIntoTrainTable for inserting data
+2020-10-22/19:43:59		Data inserted successfully
+2020-10-22/19:43:59		Entered into insertDataIntoPredTable for inserting data
+2020-10-22/19:53:00		Data inserted successfully
+2020-10-22/19:53:00		Entered into TrainGeneVarTable table for inserting data
+2020-10-22/19:58:22		Data Entered into TrainGeneVarTable successfully !!
+2020-10-22/19:58:22		Entered into PredGeneVarTable table for inserting data
+2020-10-22/20:05:28		Data Entered into PredGeneVarTable successfully !!

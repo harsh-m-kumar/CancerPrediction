@@ -1,0 +1,3 @@
+./CountVectorizer/OneHotGene.pkl
+./CountVectorizer/OneHotVariation.pkl
+./CountVectorizer/OneHotText.pkl

@@ -1,0 +1,11 @@
+2020-10-22/19:39:33		Opened cancer database successfully
+2020-10-22/19:39:34		Closed cancer database successfully
+2020-10-22/19:39:34		Opened cancer database successfully
+2020-10-22/19:39:35		Opened cancer database successfully
+2020-10-22/19:39:35		Closed cancer database successfully
+2020-10-22/19:39:35		Opened cancer database successfully
+2020-10-22/19:39:36		Opened cancer database successfully
+2020-10-22/19:43:59		Opened cancer database successfully
+2020-10-22/19:53:00		Opened cancer database successfully
+2020-10-22/19:58:22		Opened cancer database successfully
+2020-10-22/20:05:28		Opened cancer database successfully
