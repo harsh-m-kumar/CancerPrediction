@@ -1,9 +1,9 @@
 import boto3
 from botocore.client import Config
 
-ACCESS_KEY_ID = 'AKIAJSY34E5WFOMZXYFQ'
-ACCESS_SECRET_KEY = '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'
-BUCKET_NAME = 'cancerpredictiondata'
+ACCESS_KEY_ID = '**********************'
+ACCESS_SECRET_KEY = '********************'
+BUCKET_NAME = '*********************'
 
 data1 = open('Data/training_text.zip', 'rb')
 data2=open('Data/test_text.zip','rb')
