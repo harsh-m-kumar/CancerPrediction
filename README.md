@@ -87,3 +87,7 @@ In all the techniques I have used GridSearchCv to perform Hyperparameter tunning
 Deployed the model using two techniques:
 1.	Pushed the Model, Flask API file to the AWS EC2 cloud and deployed it.
 2.	Containerized the Model using Dockers and deployed on Google Kubernetes Engine.
+
+Please use above file Sample_data_for_prediction_variants.txt and Sample_data_for_prediction_text.txt for values in the Web UI for testing .
+
+AWS EC2 link for accessing the application : http://ec2-18-141-137-210.ap-southeast-1.compute.amazonaws.com:8080
