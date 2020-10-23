@@ -1,0 +1,2 @@
+Gene,Variation
+ACSL4,R570S
