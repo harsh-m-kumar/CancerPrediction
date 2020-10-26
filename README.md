@@ -15,7 +15,7 @@ Can AI help them to predict the given Gene, variation and Text research into one
 Classify the given Gene mutation, based on the evidence from text-based research literature, into one of the nine categories out of which some are Cancerous.
 
 ## Business constraints:
-1.	Along with predicting the class, the probabilities of the classes are required.
+1.	Along with predicting the class, the probability of the data point belonging to each classes are required.
 2.	Interpretability of the model is very important.
 3.	Reasons for predicting a particular class is required by the Doctor to be double sure about the predictions.
 
