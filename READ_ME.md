@@ -11,7 +11,7 @@ The blood samples taken from Cancer suspect patient is analysed for genetic muta
 Can AI help them to predict the given Gene, variation and Text research into one of the nine categories.
 
 ## Business Outcome: 
-1.	Saves the time spend by the pathologist significantly from almost a day to 3-4 seconds.
+1.	Saves the time spend by the pathologist significantly from almost a day to 2-4 seconds.
 2.	When there too many cancer suspect patients coming to the hospital, scarcity of the pathologist for analysing genetic mutation can be overcome.
 
 ## Problem statement: 
