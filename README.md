@@ -66,17 +66,17 @@ Given a gene, variation and the research text on this given mutation, Build a mo
 
 
 ## Models Tried:
-Models																									                                     								Multi-Class Log loss
+Models-----------------------------------------------------------------------	Multi-Class Log loss
 
-1	KNN Model with response Coding 																						                        			0.93
+1	KNN Model with response Coding--------------------------------------------------	0.93
 
-2	Logistic Regression without Class balanced and OneHot Encoded feature					     	0.99
+2	Logistic Regression without Class balanced and OneHot Encoded feature	-----------0.99
 
-3	Logistic Regression with Class balanced and Tf-idf Encoded feature							       1.00
+3	Logistic Regression with Class balanced and Tf-idf Encoded feature ------------- 1.00
 
-4	Logistic Regression without Class balanced and OneHot Encoded feature				     		1.01
+4	Logistic Regression without Class balanced and OneHot Encoded feature	-----------1.01
 
-5	Logistic Regression with Class balanced and OneHot Encoded feature				       			1.11
+5	Logistic Regression with Class balanced and OneHot Encoded feature	-------------	1.11
 
 6	Naïve Bayes Model with OneHot Encoded feature (Baseline Model)							         		1.12
 
