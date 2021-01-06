@@ -80,7 +80,7 @@ Models-----------------------------------------------------------------------	Mu
 
 6	Naïve Bayes Model with OneHot Encoded feature (Baseline Model)	--------------1.12
 
-7	Linear SVM with Tf-idf Encoded feature	-----------------------------------------   1.12
+7	Linear SVM with Tf-idf Encoded feature	----------------------------------------------1.12
 
 8	Random Forest with Tf-idf Encoded feature	---------------------------------------1.14
 
