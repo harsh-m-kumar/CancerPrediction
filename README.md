@@ -70,7 +70,7 @@ Models-----------------------------------------------------------------------	Mu
 
 1	KNN Model with response Coding ------------------------------------------------ 0.93
 
-2	Logistic Regression without Class balanced and OneHot Encoded feature	--------- 0.99
+2	Logistic Regression without Class balanced and OneHot Encoded feature	------ 0.99
 
 3	Logistic Regression with Class balanced and Tf-idf Encoded feature ------------ 1.00
 
