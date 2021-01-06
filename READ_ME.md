@@ -2,6 +2,9 @@
 
 # Redefining the Cancer Treatment
 
+## Data Souce
+https://www.kaggle.com/c/msk-redefining-cancer-treatment/
+
 ## Business Problem: 
 
 The blood samples taken from Cancer suspect patient is analysed for genetic mutations. Some of the genetic mutation are cancerous and some are not. To exactly diagnose the cancer, the pathologist has to go through manually all research literature publish on this particular genetic mutation. It takes almost a day for the pathologist/domain expert to analyse the research text and classify the given gene and variation into one of the nine categories out of which some are cancerous and some are not. 
