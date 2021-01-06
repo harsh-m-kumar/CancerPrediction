@@ -87,7 +87,7 @@ Models-----------------------------------------------------------------------	Mu
 
 8	Random Forest with Tf-idf Encoded feature	---------------------------------------1.14
 
-9	Linear SVM with OneHot Encoded feature	------------------------------------------1.17
+9	Linear SVM with OneHot Encoded feature	-----------------------------------------1.17
 
 10	Naïve Bayes Model with Tf-idf Encoded feature 	---------------------------------1.2
 
