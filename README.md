@@ -74,13 +74,13 @@ Models-----------------------------------------------------------------------	Mu
 
 3	Logistic Regression with Class balanced and Tf-idf Encoded feature ------------ 1.00
 
-4	Logistic Regression without Class balanced and OneHot Encoded feature	-----------1.01
+4	Logistic Regression without Class balanced and OneHot Encoded feature	-------1.01
 
 5	Logistic Regression with Class balanced and OneHot Encoded feature	---------	1.11
 
 6	Naïve Bayes Model with OneHot Encoded feature (Baseline Model)	--------------1.12
 
-7	Linear SVM with Tf-idf Encoded feature	--------------------------------------1.12
+7	Linear SVM with Tf-idf Encoded feature	--------------------------------------   1.12
 
 8	Random Forest with Tf-idf Encoded feature	---------------------------------------1.14
 
