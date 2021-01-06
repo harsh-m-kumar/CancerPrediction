@@ -66,18 +66,29 @@ Given a gene, variation and the research text on this given mutation, Build a mo
 
 
 ## Models Tried:
- 	Models																																	Multi-Class Log loss
-1	KNN Model with response Coding 																									0.93
-2	Logistic Regression without Class balanced and OneHot Encoded feature						0.99
-3	Logistic Regression with Class balanced and Tf-idf Encoded feature							1.00
-4	Logistic Regression without Class balanced and OneHot Encoded feature						1.01
-5	Logistic Regression with Class balanced and OneHot Encoded feature							1.11
-6	Naïve Bayes Model with OneHot Encoded feature (Baseline Model)									1.12
-7	Linear SVM with Tf-idf Encoded feature																					1.12
-8	Random Forest with Tf-idf Encoded feature																				1.14
-9	Linear SVM with OneHot Encoded feature																					1.17
-10	Naïve Bayes Model with Tf-idf Encoded feature 																1.2
-11	Random Forest with OneHot Encoded feature																			1.2
+Models																									                                     								Multi-Class Log loss
+
+1	KNN Model with response Coding 																						                        			0.93
+
+2	Logistic Regression without Class balanced and OneHot Encoded feature					     	0.99
+
+3	Logistic Regression with Class balanced and Tf-idf Encoded feature							       1.00
+
+4	Logistic Regression without Class balanced and OneHot Encoded feature				     		1.01
+
+5	Logistic Regression with Class balanced and OneHot Encoded feature				       			1.11
+
+6	Naïve Bayes Model with OneHot Encoded feature (Baseline Model)							         		1.12
+
+7	Linear SVM with Tf-idf Encoded feature																				                     	1.12
+
+8	Random Forest with Tf-idf Encoded feature																	                   			1.14
+
+9	Linear SVM with OneHot Encoded feature																				                     	1.17
+
+10	Naïve Bayes Model with Tf-idf Encoded feature 													                 			1.2
+
+11	Random Forest with OneHot Encoded feature																	                   		1.2
 
 
 ### Out of these models, I chose top 4 and used 3 models(Removed KNN) for building the final pipeline whichever gives the least Multi-Class log-loss.
