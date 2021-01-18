@@ -104,4 +104,4 @@ Models-----------------------------------------------------------------------	Mu
 
 ### Please use above file Sample_data_for_prediction_variants.txt and Sample_data_for_prediction_text.txt for values in the Web UI for testing .
 
-AWS EC2 link for accessing the application : http://ec2-18-141-137-210.ap-southeast-1.compute.amazonaws.com:8080
+AWS EC2 link for accessing the application : http://ec2-3-0-92-123.ap-southeast-1.compute.amazonaws.com:8000/
